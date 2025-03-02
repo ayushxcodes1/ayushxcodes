@@ -8,9 +8,7 @@
 <p align='center'>Aspiring Web Developer</p>
 
 
-<p align='left'>  A passionate developer with a deep curiosity for learning and building. I love solving problems, creating meaningful projects, and continuously improving my skills.  
-
-My journey is all about growth—embracing challenges, exploring new possibilities, and evolving into a skilled developer. With a strong focus on innovation and continuous learning, I aim to build impactful solutions that make a difference. 🚀</p>
+<p align='left'> A passionate developer with a deep curiosity for learning and building. I love solving problems, creating meaningful projects, and continuously improving my skills.</p>
 
 Programmer currently learning **web development** using multiple **tools, frameworks and libraries** in frontend. I pay *a lot of attention to detail* to generate best products.
 
