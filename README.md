@@ -11,7 +11,6 @@
 <p align='left'> A passionate developer with a deep curiosity for learning and building. I love solving problems, creating meaningful projects, and continuously improving my skills.</p>
 
 Programmer currently learning **web development** using multiple **tools, frameworks and libraries** in frontend. I pay *a lot of attention to detail* to generate best products.
-<br>
 
 💻 **Languages and Tools:** 🛠️ <br>
 
@@ -38,13 +37,13 @@ Programmer currently learning **web development** using multiple **tools, framew
 <!-- ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3) -->
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-<br>
+
 
 🧐 **Knowledge of:**<br>
 
 
 `Responsive web design`, `DOM`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
-<br>
+
 
 🌍 **Deployment platforms:**<br>
 
@@ -74,12 +73,10 @@ Programmer currently learning **web development** using multiple **tools, framew
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
 
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=ayushporwal01" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=ayushporwal01" alt="Github Contribution Stats" width="400px"/>
+  <img src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" alt="GIF" width="400px"/>
 </p>
-
 
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/atharv0777)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
