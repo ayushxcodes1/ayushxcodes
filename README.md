@@ -1,7 +1,7 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/ayushporwal01?label=Follow%20Me&style=social)](https://github.com/ayushporwal01)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Porwal-blue?logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/ayushporwal1/)
-![Profile Views](https://replit-counter.5n9r.workers.dev/ayushporwal01)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ayushporwal01/&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://github.com/ayushporwal01)
 <br>
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Ayush Porwal</strong></samp></h2>
