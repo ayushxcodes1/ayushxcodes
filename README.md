@@ -1,8 +1,7 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/pratham0709?label=Follow%20Me&style=social)](https://github.com/pratham0709)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%Porwal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ayushporwal1/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/ayushporwal1/)
+
 <h2 align='center'><samp><strong>Hi there 👋, I am Ayush Porwal</strong></samp></h2>
 <!--<h3 align='center'><strong><a href="https://prathameshjadhav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>-->
 <p align='center'>Aspiring Web Developer</p>
