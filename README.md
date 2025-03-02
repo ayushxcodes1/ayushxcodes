@@ -73,10 +73,7 @@ Programmer currently learning **web development** using multiple **tools, framew
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
 
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ayushporwal01" alt="Github Contribution Stats" width="400px"/>
-  <img src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" alt="GIF" width="400px"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushporwal01" alt="GitHub Streak Stats" />
 
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/atharv0777)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
