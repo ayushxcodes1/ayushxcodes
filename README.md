@@ -11,6 +11,7 @@
 <p align='left'> A passionate developer with a deep curiosity for learning and building. I love solving problems, creating meaningful projects, and continuously improving my skills.</p>
 
 Programmer currently learning **web development** using multiple **tools, frameworks and libraries** in frontend. I pay *a lot of attention to detail* to generate best products.
+<br>
 
 💻 **Languages and Tools:** 🛠️ <br>
 
@@ -37,13 +38,13 @@ Programmer currently learning **web development** using multiple **tools, framew
 <!-- ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3) -->
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
+<br>
 
 🧐 **Knowledge of:**<br>
 
 
 `Responsive web design`, `DOM`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
-
+<br>
 
 🌍 **Deployment platforms:**<br>
 
