@@ -34,7 +34,7 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 🧐 **Knowledge of:**<br>
 
 
-`Responsive web design`, `DOM`, `Object-Oriented Programming`, `Data Structures and Algorithms`
+`Responsive web design`, `DOM`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
 <br>
 
 # 📊 GitHub Stats:
