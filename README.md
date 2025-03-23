@@ -43,7 +43,7 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushporwal01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Username's Leetcode Stats](https://leetcode.gasinski.dev/svg/ayushporwal1?theme=nord)
 <br>
 
 ![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ayushporwal1?theme=dark&bgColor=282828)
