@@ -38,7 +38,7 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 <br>
 
 ### 📊 Coding Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ayushporwal1?theme=nord&font=Poppins)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ayushporwal1?theme=dark&font=Poppins)
 <br>
 
 # 📊 GitHub Stats:
