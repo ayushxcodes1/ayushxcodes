@@ -44,7 +44,6 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayushporwal1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-<br>
 
 ![Leetcode Stats](https://leetcode-stats-inky.vercel.app/?username=ayushporwal1&ranking=true)   
 <br>
