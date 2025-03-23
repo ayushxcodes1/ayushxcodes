@@ -40,9 +40,12 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushporwal01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushporwal1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ayushporwal1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<br>
+
 ![Leetcode Stats](https://leetcode-stats-inky.vercel.app/?username=ayushporwal1&ranking=true)   
 <br>
 ---
