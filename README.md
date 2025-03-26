@@ -45,8 +45,3 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ayushporwal01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=ayushporwal01.visitor-badge)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
