@@ -46,8 +46,8 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 ![](https://github-contributor-stats.vercel.app/api?username=ayushporwal01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-![Visitor Count](https://hitcounter.pythonanywhere.com/count/tag.svg?url=github.com/ayushporwal01)
 
+![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=ayushporwal01)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
