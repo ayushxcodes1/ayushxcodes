@@ -1,7 +1,8 @@
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/ayushporwal01?label=Follow%20Me&style=social)](https://github.com/ayushporwal01)   ![Profile Views](https://komarev.com/ghpvc/?username=your-github-ayushporwal01&color=blue)
-
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/ayushporwal01?label=Follow%20Me&style=social)](https://github.com/ayushporwal01)  
 <br>
-
+ ![Profile Views](https://komarev.com/ghpvc/?username=your-github-ayushporwal01&color=blue)
+<br>
+ 
 <h2 align='center'><samp><strong>Hi there 👋, I am Ayush Porwal</strong></samp></h2>
 <!--<h3 align='center'><strong><a href="https://prathameshjadhav.vercel.app/" target="_blank">Portfolio🌐</a></strong></h3>-->
 <p align='center'>Aspiring Web Developer</p>
@@ -47,8 +48,5 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 ![](https://github-contributor-stats.vercel.app/api?username=ayushporwal01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/{ayushporwal01}/count.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
