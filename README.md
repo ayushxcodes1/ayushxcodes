@@ -47,7 +47,5 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 
 ---
 
-![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=ayushporwal01)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
