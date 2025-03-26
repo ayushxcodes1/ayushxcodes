@@ -1,6 +1,6 @@
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/ayushporwal01?label=Follow%20Me&style=social)](https://github.com/ayushporwal01)  
 <br>
- ![Profile Views](https://komarev.com/ghpvc/?username=your-github-ayushporwal01&color=blue)
+ ![Profile Views](https://komarev.com/ghpvc/?username=your-github-ayushporwal0&color=blue)
 <br>
  
 <h2 align='center'><samp><strong>Hi there 👋, I am Ayush Porwal</strong></samp></h2>
@@ -43,10 +43,10 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 ![](https://github-readme-stats.vercel.app/api?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushporwal01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushporwal01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=ayushporwal01
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
