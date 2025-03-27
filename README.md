@@ -37,11 +37,8 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 `Responsive web design`, `DOM`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
 <br>
 
-### LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ayushporwal1?theme=dark&font=Karma)
-
-### GeeksforGeeks Stats
-![GFG Stats](https://github-readme-geeks-for-geeks-stats.vercel.app/api?username=ayush_porwal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your_leetcode_username/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/your_gfg_username/profile)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayushporwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
