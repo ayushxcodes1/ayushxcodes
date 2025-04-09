@@ -23,7 +23,7 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-222222?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-23323330?style=for-the-badge&logo=tailwind-css&logoColor=cyan)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
