@@ -34,7 +34,7 @@ I'm currently learning **web development** using multiple **tools, frameworks an
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
 
-🧐 **Knowledge of:**<br>
+🧐 **Knowledge of:**
 
 
 `Responsive web design`, `DOM`, `Object-Oriented Programming`, `Data Structures and Algorithms`.
